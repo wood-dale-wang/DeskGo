@@ -1,0 +1,66 @@
+{
+    "characters": {
+        "anon": {
+            "idle": "anon/anon1.gif",
+            "moving": "anon/anon1.gif",
+            "falling": "anon/anon1.gif",
+            "sleeping": "anon/anon1.gif",
+            "angry": "anon/anon2.gif",
+            "byebye": "anon/anon3.gif"
+        },
+        "mutsumi": {
+            "idle": "mutsumi/mutsumi1.gif",
+            "moving": "mutsumi/mutsumi1.gif",
+            "falling": "mutsumi/mutsumi1.gif",
+            "sleeping": "mutsumi/mutsumi1.gif",
+            "angry": "mutsumi/mutsumi2.gif",
+            "byebye": "mutsumi/mutsumi3.gif"
+        },
+        "sakiko": {
+            "idle": "sakiko/sakiko1.gif",
+            "moving": "sakiko/sakiko1.gif",
+            "falling": "sakiko/sakiko1.gif",
+            "sleeping": "sakiko/sakiko1.gif",
+            "angry": "sakiko/sakiko2.gif",
+            "byebye": "sakiko/sakiko3.gif"
+        },
+        "soyo": {
+            "idle": "soyo/soyo1.gif",
+            "moving": "soyo/soyo1.gif",
+            "falling": "soyo/soyo1.gif",
+            "sleeping": "soyo/soyo1.gif",
+            "angry": "soyo/soyo2.gif",
+            "byebye": "soyo/soyo3.gif"
+        },
+        "taki": {
+            "idle": "taki/taki1.gif",
+            "moving": "taki/taki1.gif",
+            "falling": "taki/taki1.gif",
+            "sleeping": "taki/taki1.gif",
+            "angry": "taki/taki2.gif",
+            "byebye": "taki/taki3.gif"
+        },
+        "tomori": {
+            "idle": "tomori/tomori1.gif",
+            "moving": "tomori/tomori1.gif",
+            "falling": "tomori/tomori1.gif",
+            "sleeping": "tomori/tomori1.gif",
+            "angry": "tomori/tomori2.gif",
+            "byebye": "tomori/tomori3.gif"
+        }
+    },
+    "settings": {
+        "animation_speed": 120,
+        "movement_speed": 3,
+        "action_interval_min": 3000,
+        "action_interval_max": 8000,
+        "drag_threshold": 5,
+        "gravity": 2,
+        "edge_snap_margin": 5,
+        "snap_speed_threshold": 8,
+        "mouse_idle_time_before_action": 30000,
+        "mouse_follow_speed": 5,
+        "begin_fall_velocity": 200,
+        "fall_zoom_size": 150
+    }
+}
